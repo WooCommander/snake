@@ -2,12 +2,12 @@ class Point
 {
 	public int x,y;
 	public char sim;
-	public void Piton()
+	public void Point()
 	{
 	
 	}
 	
-	public void Piton(int x_, int y_, char sim)
+	public void Point(int x_, int y_, char sim)
 	{
 	
 	}
